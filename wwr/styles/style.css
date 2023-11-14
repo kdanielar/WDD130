@@ -224,6 +224,23 @@ nav{
 
 /*river's page*/
 
+.salmon-river{
+    grid-column: 2/7;
+    grid-row: 5/8;
+    box-shadow: 5px 5px 10px #6f7364;
+}
+
+.desolation{
+    grid-column: 2/7;
+    grid-row: 5/11;
+    box-shadow: 5px 5px 10px #6f7364;
+}
+
+.grand-canyon{
+    grid-column: 2/7;
+    grid-row: 5/8;
+    box-shadow: 5px 5px 10px #6f7364;
+}
 
 
 
