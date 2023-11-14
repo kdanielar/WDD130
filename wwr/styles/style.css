@@ -222,6 +222,11 @@ nav{
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; 
 }
 
+/*river's page*/
+
+
+
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
