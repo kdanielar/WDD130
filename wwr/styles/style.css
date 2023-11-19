@@ -224,24 +224,27 @@ nav{
 
 /*river's page*/
 
-.salmon-river{
+.salmon-river {
     grid-column: 2/7;
     grid-row: 5/8;
     box-shadow: 5px 5px 10px #6f7364;
 }
 
-.desolation{
+.desolation {
     grid-column: 2/7;
     grid-row: 5/11;
-    box-shadow: 5px 5px 10px #6f7364;
+    box-shadow: 5px 5px 10px #6f7364;  
 }
 
-.grand-canyon{
+.grand-canyon {
     grid-column: 2/7;
     grid-row: 5/8;
     box-shadow: 5px 5px 10px #6f7364;
 }
 
+#background1 {
+    
+}
 
 
 @media screen and (max-width: 900px) {
