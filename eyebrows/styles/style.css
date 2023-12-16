@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300&family=Poiret+One&display=swap');
 h2{
     color: rgb(253, 253, 253);
     font: Sans-serif;
+}
+h1{
+    color: white;
 }
     #content {
         max-width: 1600px;
@@ -28,7 +32,8 @@ body{
 
 header {
     background-color: #FFDBC8;
-    font-family: sans-serif, "Bebas Neue", Helvetica;
+    font-family: "Poiret One", "Bebas Neue", Helvetica;
+    font-size: 50px;
     display: grid;
     grid-template-columns: 200px auto;
 }
